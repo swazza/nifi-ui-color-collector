@@ -1,0 +1,1 @@
+# nifi-ui-color-collector
